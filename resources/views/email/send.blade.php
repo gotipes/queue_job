@@ -1,0 +1,1 @@
+<p>This is email test that sent for queue job testing with <strong> {{ $data['connection'] }} </strong> connection (Laravel)</p>
